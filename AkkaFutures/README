@@ -1,0 +1,1 @@
+Demonstrate use of Akka Futures, PoisonPill to stop an actor. Ways to kill or stop dependent actors.
